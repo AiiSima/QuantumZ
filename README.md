@@ -5,7 +5,7 @@
   <img alt="Stars" src="https://img.shields.io/badge/Stars-12,291-8B5CF6">
   <img alt="Works" src="https://img.shields.io/badge/Works-10,161-10B981">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-F59E0B">
-  <img alt="Shell" src="https://img.shields.io/badge/With-Shell-3B82F6">
+  <img alt="Php" src="https://img.shields.io/badge/With-Php-3B82F6">
   <img alt="TrackIP" src="https://img.shields.io/badge/TrackIP-Quantum-EF4444">
 </p>
 
