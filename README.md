@@ -6,7 +6,7 @@
   <img alt="Works" src="https://img.shields.io/badge/Works-10,161-10B981">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-F59E0B">
   <img alt="Shell" src="https://img.shields.io/badge/With-Shell-3B82F6">
-  <img alt="BugBounty" src="https://img.shields.io/badge/BugBounty-Quantum-EF4444">
+  <img alt="TrackIP" src="https://img.shields.io/badge/TrackIP-Quantum-EF4444">
 </p>
 
 <p align="center">Please Use Wisely!</p>
