@@ -1,8 +1,8 @@
 {
-    "name": "TrackIP Akurat - Quantum",
+    "name": "TrackIP - Quantum",
     "version": "1.0",
     "author": "AiiSima Quantum",
-    "description": "Advanced IP Tracking Tool with multiple features",
+    "description": "© AiiSima",
     "settings": {
         "timeout": 5,
         "max_ports": 1000,
