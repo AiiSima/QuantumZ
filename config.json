@@ -1,0 +1,27 @@
+{
+    "name": "TrackIP Akurat - Quantum",
+    "version": "1.0",
+    "author": "AiiSima Quantum",
+    "description": "Advanced IP Tracking Tool with multiple features",
+    "settings": {
+        "timeout": 5,
+        "max_ports": 1000,
+        "log_queries": true,
+        "color_output": true,
+        "check_updates": true
+    },
+    "apis": {
+        "ip_api": "http://ip-api.com/json/",
+        "ipinfo": "https://ipinfo.io/",
+        "ipapi": "https://ipapi.co/",
+        "whois": "https://whois.arin.net/rest/ip/"
+    },
+    "features": {
+        "ip_tracking": true,
+        "geolocation": true,
+        "whois": true,
+        "dns_lookup": true,
+        "port_scan": true,
+        "blacklist_check": true
+    }
+}
